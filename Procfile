@@ -1,1 +1,1 @@
-web: gunicorn recognize_faces_image:app --log-file -
+web: gunicorn recognize_faces_image:app
