@@ -1,5 +1,5 @@
 gunicorn
-python=3.6.6
+python
 flask
 face-recognition
 dlib
