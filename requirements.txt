@@ -1,4 +1,4 @@
-setuptools==1.0
+pip3
 gunicorn
 python
 flask
