@@ -1,0 +1,13 @@
+dlib
+face_recognition
+flask
+pickle
+cv2
+io
+urllib.request
+numpy
+base64
+requests
+pyttsx3
+skimage
+PIL
